@@ -23,3 +23,4 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+// Configure the HTTP request pipeline first commit line from MrNams
